@@ -20,7 +20,9 @@ The matrices A and B can be stored either full or, although not recommended, in 
 
 ## Mixed precision 
 
-Mixed precision routines are used to improve the accuracy of the solver (as depicted below) at moderate cost. It can also be used to improve parallelism. 
+Mixed precision routines are used to improve the accuracy of the solver at
+moderate cost. It can also be used to improve parallelism. A prototype using
+extended precision can be found in the TAGS folder.
 
 
 ## Usage
