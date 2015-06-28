@@ -25,7 +25,7 @@ Mixed precision routines are used to improve the accuracy of the solver (as depi
 
 ## Usage
 
-Please read 'USAGE.txt' for more about how to use mr3smp.
+Please read 'USAGE.txt' for more information about how to build and use mr3smp.
 
 
 ## Citing 
@@ -41,3 +41,7 @@ volume  = 37,
 number  = 12,
 }
 
+
+## Google code
+
+The project was originally hosted at https://code.google.com/p/mr3smp/
